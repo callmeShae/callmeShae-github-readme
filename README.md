@@ -1,8 +1,16 @@
-- 👋 Hi, I’m Shae. 
-- 👀 I’m interested in different programming languages. I'm a beginner, but thankful to be in the MIT program at Virginia Tech. Also hoping to start the Hack Reactor Bootcamp through Galvanize next month.
-- I'm currently learning Java, JavaScript and Python. Will take a stab at C# once I feel comfortable with those.
-- 💞️ I’m looking to collaborate on anything people are willing to include me on. I'm not sure how much I have to contribute this early on, but always willing to help if I can.
-- 📫 How to reach me sasmith1223@rocketmail.com
+👋 Hi, I’m Shannon Smith, but almost everyone calls me Shae. 
+
+I’m a software developer specializing in Java. Prior to developing my programming skills, I spent a few years in the ⚓ U.S. Navy ⚓. Outside of work, I enjoy...
+
+- 🎨 Working on art of any kind (painting, drawing, sculpture, woodworking)
+- 🚴 Cycling
+- 🐾 Spending time with the pets!
+
+📫 Connect with me 📫
+- Email: sasmith1223@rocketmail.com
+- Facebook: https://www.facebook.com/shannonsmith1223
+- Instagram: shaeasis
+- My artists page: https://shae1223.wixsite.com/shannonsmith
 
 <!---
 thereisnospoon1223/thereisnospoon1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
