@@ -7,9 +7,8 @@ I’m a software developer specializing in Java. Prior to developing my programm
 - 🐾 Spending time with the pets!
 
 📫 Connect with me 📫
-- Email: sasmith1223@rocketmail.com
 - [Facebook](https://www.facebook.com/shannonsmith1223)
-- [Instagram](shaeasis)
+- [Instagram](https://www.instagram.com/shaeasis/)
 - [My Wix page](https://shae1223.wixsite.com/shannonsmith)
 
 <!---
