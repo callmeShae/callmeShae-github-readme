@@ -1,10 +1,12 @@
 👋 Hi, I’m Shannon Smith, but almost everyone calls me Shae. 
 
-I’m a software developer specializing in Java. Prior to developing my programming skills, I spent a few years in the ⚓ U.S. Navy ⚓. Outside of work, I enjoy...
+I’m a Software Developer specializing in Java. Prior to discovering my programming skills, I spent a few years in the ⚓ U.S. Navy ⚓, but now enjoy my time outside of work by...
 
-- 🎨 Working on art of any kind (painting, drawing, sculpture, woodworking)
+- 🎨 Working on art of any kind (painting, drawing, sculpture and woodworking)
+- 🏠 Completing home renovation projects
 - 🚴 Cycling
-- 🐾 Spending time with the pets!
+- 🐾 Spending time with my wife and pets!
+- and of course, improving my Programming skills!
 
 📫 Connect with me 📫
 - [Facebook](https://www.facebook.com/shannonsmith1223)
