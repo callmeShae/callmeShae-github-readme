@@ -8,10 +8,9 @@ I’m a software developer specializing in Java. Prior to developing my programm
 
 📫 Connect with me 📫
 - Email: sasmith1223@rocketmail.com
-- [Email](sasmith1223@rocketmail.com)
-- Facebook: https://www.facebook.com/shannonsmith1223
-- Instagram: shaeasis
-- My artists page: https://shae1223.wixsite.com/shannonsmith
+- [Facebook] (https://www.facebook.com/shannonsmith1223)
+- [Instagram] (shaeasis)
+- [My Wix page] (https://shae1223.wixsite.com/shannonsmith)
 
 <!---
 thereisnospoon1223/thereisnospoon1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
