@@ -11,7 +11,7 @@ I’m a Software Developer specializing in Java. Prior to discovering my program
 📫 Connect with me 📫
 - [Facebook](https://www.facebook.com/shannonsmith1223)
 - [Instagram](https://www.instagram.com/shaeasis/)
-- [My Wix page](https://shae1223.wixsite.com/shannonsmith)
+- [My Wix art page](https://shae1223.wixsite.com/shannonsmith)
 
 <!---
 thereisnospoon1223/thereisnospoon1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
