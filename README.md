@@ -1,6 +1,6 @@
 👋 Hi, I’m Shannon Smith, but _almost_ everyone calls me Shae 😄 
 
-I’m a Software Developer specializing in Java. Prior to discovering my programming skills, I spent a few years in the ⚓ U.S. Navy ⚓, but now enjoy my time outside of work by...
+I’m new to Software Development, currently specializing in Java. Prior to discovering my programming skills, I spent a few years in the ⚓ U.S. Navy ⚓, but now enjoy my time outside of work by...
 
 - 🐱‍👤 Improving my Programming skills!
 - 🎨 Working on art of any kind (painting, drawing, sculpture and woodworking)
