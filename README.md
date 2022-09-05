@@ -10,8 +10,6 @@ I’m new to Software Development, currently specializing in Java. Prior to disc
 
 📫 Connect with me 📫
 - [LinkedIn](https://www.linkedin.com/in/shae-smith1223/)
-- [Facebook](https://www.facebook.com/shannonsmith1223)
-- [Instagram](https://www.instagram.com/shaeasis/)
 - [Portfolio](https://thereisnospoon1223.github.io/Shannon%20Smith/index.html#top)
 - [My Wix art page](https://shae1223.wixsite.com/shannonsmith)
 
