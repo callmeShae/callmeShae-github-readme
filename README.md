@@ -2,7 +2,8 @@
 
 I’m new to Software Development, currently specializing in Java. Prior to discovering my programming skills, I spent a few years in the ⚓ U.S. Navy ⚓, but now enjoy my time outside of work by...
 
-- 🐱‍👤 Improving my Programming skills! <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+- 🐱‍👤 Improving my Programming skills! 
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 
 - 🎨 Working on art of any kind (painting, drawing, sculpture and woodworking)
 - 🏠 Completing home renovation projects
