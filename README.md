@@ -11,9 +11,7 @@ I’m new to Software Development, currently specializing in Java. Prior to disc
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  
-  
-  <img src="https://www.flaticon.com/free-icon/cyber-security_2092663"/>
+
 
 - 🎨 Working on art of any kind (painting, drawing, sculpture and woodworking)
 - 🏠 Completing home renovation projects
