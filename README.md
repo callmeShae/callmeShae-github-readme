@@ -3,6 +3,9 @@
 I’m new to Software Development, currently specializing in Java. Prior to discovering my programming skills, I spent a few years in the ⚓ U.S. Navy ⚓, but now enjoy my time outside of work by...
 
 - 🐱‍👤 Improving my Programming skills! 
+- 🚀 Always ready to collaborate
+
+When I'm NOT doing that, I'm...
 
 - 🎨 Working on art of any kind (painting, drawing, sculpture and woodworking)
 - 🏠 Completing home renovation projects
@@ -15,7 +18,7 @@ I’m new to Software Development, currently specializing in Java. Prior to disc
 - [My Wix art page](https://shae1223.wixsite.com/shannonsmith)
 
 
-- 🛠️ Technologies and Tools I use:
+🛠️ Technologies and Tools I use:
   
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   
