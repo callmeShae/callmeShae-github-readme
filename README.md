@@ -19,6 +19,7 @@ When I'm NOT doing that, I'm...
 
 
 🛠️ Technologies and Tools I use:
+
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
