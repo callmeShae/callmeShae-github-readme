@@ -1,4 +1,5 @@
-<h2>
+<h2 align="center">
+
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30" height="30"> Hi, I’m Shannon Smith, but almost everyone calls me Shae 😄 </h2>
 
 <h3>I'm currently working on a Master's degree at Virginia Tech  <a href="https://vtmit.vt.edu/academics/modules/security2.html"><img src="https://img.icons8.com/nolan/36/programming.png"/> <a href="https://vtmit.vt.edu/academics/modules/software-development.html"><img src="https://img.icons8.com/nolan/36/cyber-security.png"/></a> </h3>
@@ -31,8 +32,9 @@ When I'm NOT doing that, I'm...
 <img src="https://img.icons8.com/color/48/000000/css3.png">
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
 
+Liked my GitHub❓👉 <a href="https://github.com/sponsors/thereisnospoon1223/dashboard/profile">Sponsor me</a> a Dollar 💰 💵 ✨
   
-
+Liked my Contributions❓👉 Nominate Me for <a href="https://stars.github.com/nominate/">GitHub Stars </a>⭐ ✨ 
 
 <!---
 thereisnospoon1223/thereisnospoon1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
