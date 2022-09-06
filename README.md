@@ -1,31 +1,33 @@
 👋 Hi, I’m Shannon Smith, but _almost_ everyone calls me Shae 😄 
 
-I’m new to Software Development, currently specializing in Java. Prior to discovering my programming skills, I spent a few years in the ⚓ U.S. Navy ⚓, but now enjoy my time outside of work by...
+- <a href="https://vtmit.vt.edu/academics/modules/security2.html"><img src="https://img.icons8.com/nolan/36/programming.png"/></a>  I'm currently working on a Master's degree at Virginia Tech  <a href="https://vtmit.vt.edu/academics/modules/software-development.html"><img src="https://img.icons8.com/nolan/36/cyber-security.png"/></a>
 
-- 💻 Improving my Programming skills!👨‍💻
-- 🚀 Always ready to collaborate
 
 When I'm NOT doing that, I'm...
 
+- 💻 Improving my Programming skills!👨‍💻
+- 🚀 Always ready to collaborate
 - 🎨 Working on art of any kind (painting, drawing, sculpture and woodworking)
 - 🏠 Completing home renovation projects
 - 🚴 Cycling
-- 🐾 Spending time with my wife and pets!
+- 🐈 Spending time with my wife 💍 and pets 🐕
+
 
 📫 Connect with me 📫
-- <a href="https://www.linkedin.com/in/shae-smith1223/"><img src="https://img.icons8.com/nolan/48/linkedin.png"/></a>
-- [Portfolio](https://thereisnospoon1223.github.io/Shannon%20Smith/index.html#top)
-- [My Wix art page](https://shae1223.wixsite.com/shannonsmith)
+
+<a href="https://www.linkedin.com/in/shae-smith1223/"><img src="https://img.icons8.com/nolan/48/linkedin.png"/></a>
+<a href="https://www.facebook.com/shannonsmith1223"><img src="https://img.icons8.com/nolan/48/facebook.png"/></a>
+<a href="https://www.instagram.com/shaeasis/"><img src="https://img.icons8.com/nolan/48/instagram-new.png"/></a>
+<a href="https://thereisnospoon1223.github.io/Shannon%20Smith/index.html#top"><img src="https://img.icons8.com/nolan/48/s.png"/></a>
+<a href="https://shae1223.wixsite.com/shannonsmith"><img src="https://ecommercedesucesso.com.br/wp-content/uploads/2020/10/wix-e-bom.png" width="80" height="48"/></a>
+
 
 
 🛠️ Technologies and Tools I use:
 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-  
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   
 
