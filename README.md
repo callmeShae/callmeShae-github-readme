@@ -2,7 +2,7 @@
 
 I’m new to Software Development, currently specializing in Java. Prior to discovering my programming skills, I spent a few years in the ⚓ U.S. Navy ⚓, but now enjoy my time outside of work by...
 
-- 💻 Improving my Programming skills! 
+- 💻 Improving my Programming skills!👨‍💻
 - 🚀 Always ready to collaborate
 
 When I'm NOT doing that, I'm...
