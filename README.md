@@ -13,7 +13,7 @@ When I'm NOT doing that, I'm...
 - 🐾 Spending time with my wife and pets!
 
 📫 Connect with me 📫
-- [LinkedIn](https://www.linkedin.com/in/shae-smith1223/)
+- <a href="https://www.linkedin.com/in/shae-smith1223/"><img src="https://img.icons8.com/nolan/48/linkedin.png"/></a>
 - [Portfolio](https://thereisnospoon1223.github.io/Shannon%20Smith/index.html#top)
 - [My Wix art page](https://shae1223.wixsite.com/shannonsmith)
 
