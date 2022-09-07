@@ -27,7 +27,7 @@ When I'm NOT doing that, I'm...
 <h3> Connect with me </h3>
 
 <a href="https://www.linkedin.com/in/shae-smith1223/"><img src="https://img.icons8.com/nolan/48/linkedin.png"></a>
-<a href="https://www.facebook.com/shannonsmith1223"><img src="https://img.icons8.com/nolan/48/facebook.png"></a>
+<a href="https://www.facebook.com/shaesmith1223"><img src="https://img.icons8.com/nolan/48/facebook.png"></a>
 <a href="https://www.instagram.com/shaeasis/"><img src="https://img.icons8.com/nolan/48/instagram-new.png"></a>
 <a href="https://thereisnospoon1223.github.io/Shannon%20Smith/index.html#top"><img src="https://img.icons8.com/nolan/48/s.png"></a>
 <a href="https://shae1223.wixsite.com/shannonsmith"><img src="https://ecommercedesucesso.com.br/wp-content/uploads/2020/10/wix-e-bom.png" width="80" height="48"></a>
