@@ -9,8 +9,8 @@ Hi, I’m Shannon Smith but <em>almost</em> everyone calls me </h3>
 <a href="https://vtmit.vt.edu/"></a></h3>
 
 <h4  align="center">Specializing in </h4>
-<h4  align="center"><a href="https://vtmit.vt.edu/academics/modules/software-development.html">Software Development </a>  and 
-<a href="https://vtmit.vt.edu/academics/modules/security2.html"> Cybersecurity Policy</a> </h4>
+<h3  align="center"><a href="https://vtmit.vt.edu/academics/modules/software-development.html">Software Development </a>  and 
+<a href="https://vtmit.vt.edu/academics/modules/security2.html"> Cybersecurity Policy</a> </h3>
 
   
 <h2></h2>
@@ -37,6 +37,8 @@ When I'm NOT doing that, I'm...
 <a href="https://shae1223.wixsite.com/shaesmith"><img src="https://ecommercedesucesso.com.br/wp-content/uploads/2020/10/wix-e-bom.png" width="80" height="48"></a>
 
 <h2></h2>
+
+ 
 
 <h3>Languages and Tools:</h3>
 
@@ -67,6 +69,7 @@ Liked my GitHub❓👉 <a href="https://github.com/sponsors/thereisnospoon1223/d
   
 Liked my Contributions❓👉 Nominate Me for <a href="https://stars.github.com/nominate/">GitHub Stars </a>⭐ ✨ 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thereisnospoon1223.visitor-badge&left_color=blue&right_color=purple)
 <!---
 thereisnospoon1223/thereisnospoon1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
