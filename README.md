@@ -30,33 +30,32 @@ When I'm NOT doing that, I'm...
 
 <h3> Connect with me </h3>
 
-<a href="https://www.linkedin.com/in/shae-smith1223/"><img src="https://img.icons8.com/nolan/48/linkedin.png"></a>
-<a href="https://www.facebook.com/shaesmith1223"><img src="https://img.icons8.com/nolan/48/facebook.png"></a>
-<a href="https://www.instagram.com/shaeasis/"><img src="https://img.icons8.com/nolan/48/instagram-new.png"></a>
-<a href="https://thereisnospoon1223.github.io/Shae%20Smith/index.html"><img src="https://img.icons8.com/nolan/48/s.png"></a>
-<a href="https://shae1223.wixsite.com/shaesmith"><img src="https://ecommercedesucesso.com.br/wp-content/uploads/2020/10/wix-e-bom.png" width="80" height="48"></a>
+[![Linkedn](https://user-images.githubusercontent.com/75339573/189492088-7ca9ba8e-4cc0-4455-a7e2-4c7f23a8d9a0.png)](https://www.linkedin.com/in/shae-smith1223/)
+[![Instagram](https://user-images.githubusercontent.com/75339573/189492129-4eb6d047-7079-4a21-b0fa-d1cb8afb18ec.png)](https://www.instagram.com/shaeasis/)
+[![Facebook](https://user-images.githubusercontent.com/75339573/189492071-a27b3293-7983-4adf-851e-93fc1fdc9757.png)](https://www.facebook.com/shaesmith1223")
+[![Portfolio](https://img.icons8.com/nolan/48/s.png)](https://thereisnospoon1223.github.io/Shae%20Smith/index.html)
+[![Wix](https://user-images.githubusercontent.com/75339573/189492299-8fe30fb6-b0ff-4406-bbf2-fa7f8f41645d.png)](https://shae1223.wixsite.com/shaesmith)
 
 <h2></h2>
-
- 
 
 <h3>Languages and Tools:</h3>
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></img>
-<img src="https://img.icons8.com/fluency/48/000000/javascript.png"></img>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"></img>
-<img src="https://img.icons8.com/color/48/000000/css3.png"></img>
-<img src="https://img.icons8.com/color/48/000000/sass.png"/></img>
-<img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" width="48" height="48"></img>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"></img>
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
+![JavaScript](https://img.icons8.com/fluency/48/000000/javascript.png)
+![JavaScript](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![JavaScript](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/sass.png)
+![Eclipse](https://img.icons8.com/nolan/64/java-eclipse.png)
+![MySql](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
 <h2></h2>
 
-<a href="https://github.com/thereisnospoon1223/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thereisnospoon1223&theme=radical&count_private=true"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=thereisnospoon1223&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4)](https://git.io/streak-stats)
 
-<a href="https://github.com/thereisnospoon1223/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnospoon1223&&theme=radical&layout=compact"/></a>
+[![GitHub Read Me Stats](https://github-readme-stats.vercel.app/api?username=thereisnospoon1223&theme=radical&hide_border=true&count_private=true)](https://github.com/thereisnospoon1223/github-readme-stats)  
+
+[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnospoon1223&&theme=radical&hide_border=true&layout=compact)](https://github.com/thereisnospoon1223/github-readme-stats)
+
 
 <h2></h2>
 
