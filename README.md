@@ -12,10 +12,9 @@
 <h3  align="center"><a href="https://vtmit.vt.edu/academics/modules/software-development.html">Software Development </a>  and 
 <a href="https://vtmit.vt.edu/academics/modules/security2.html"> Cybersecurity Policy</a> </h3>
 
-  
 <h2></h2>
 
-When I'm NOT doing that, I'm...
+<h3>When I'm NOT doing that, I'm...</h3>
 
 - 👨‍💻 Improving my Programming skills!
 - 🚀 Always ready to collaborate
@@ -24,19 +23,16 @@ When I'm NOT doing that, I'm...
 - Spending time with my wife 💍 and pets 
 
 📧 How to reach me sasmith1223@rocketmail.com
-<!-- 📄 Know about my work & experiences My Resume -->
 
 <h2></h2>
 
-<h3> Connect with me </h3>
+<h3>Connect with me:</h3>
 
 [![Linkedn](https://user-images.githubusercontent.com/75339573/189492088-7ca9ba8e-4cc0-4455-a7e2-4c7f23a8d9a0.png)](https://www.linkedin.com/in/shae-smith1223/)
 [![Instagram](https://user-images.githubusercontent.com/75339573/189492129-4eb6d047-7079-4a21-b0fa-d1cb8afb18ec.png)](https://www.instagram.com/shaeasis/)
 [![Facebook](https://user-images.githubusercontent.com/75339573/189492071-a27b3293-7983-4adf-851e-93fc1fdc9757.png)](https://www.facebook.com/shaesmith1223")
 [![Portfolio](https://img.icons8.com/nolan/48/s.png)](https://thereisnospoon1223.github.io/Shae%20Smith/index.html)
 [![Wix](https://user-images.githubusercontent.com/75339573/189492299-8fe30fb6-b0ff-4406-bbf2-fa7f8f41645d.png)](https://shae1223.wixsite.com/shaesmith)
-
-
 
 <h2></h2>
 
@@ -51,6 +47,8 @@ When I'm NOT doing that, I'm...
 ![MySql](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
 <h2></h2>
+
+<h3>Stats:</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=thereisnospoon1223&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4)](https://git.io/streak-stats)
 
