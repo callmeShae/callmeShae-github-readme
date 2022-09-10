@@ -39,9 +39,9 @@
 
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 ![JavaScript](https://img.icons8.com/fluency/48/000000/javascript.png)
-![JavaScript](https://img.icons8.com/color/48/000000/html-5--v1.png)
-![JavaScript](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/sass.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![Sass](https://img.icons8.com/color/48/000000/sass.png)
 ![Eclipse](https://img.icons8.com/nolan/64/java-eclipse.png)
 ![MySql](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
@@ -55,21 +55,19 @@
 
 [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnospoon1223&&theme=radical&hide_border=true&layout=compact)](https://github.com/thereisnospoon1223/github-readme-stats)
 
-
 <h2></h2>
 
 <h3>Support:</h3>
 
-<a href="https://www.buymeacoffee.com/shaesmith1223"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="50" width="210"> </a>...I ❤❤❤ coffee!
-
+<a href="https://www.buymeacoffee.com/shaesmith1223"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="50" width="210"> </a>
 
 Liked my GitHub❓👉 <a href="https://github.com/sponsors/thereisnospoon1223/dashboard/profile">Sponsor me</a> a Dollar 💰 💵 ✨
   
 Liked my Contributions❓👉 Nominate Me for <a href="https://stars.github.com/nominate/">GitHub Stars </a>⭐ ✨ 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thereisnospoon1223.visitor-badge&left_color=blue&right_color=purple)
+
 <!---
 thereisnospoon1223/thereisnospoon1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-</body>
