@@ -1,14 +1,17 @@
 
 <h3 align="center">
 Hi, I’m Shannon Smith but <em>almost</em> everyone calls me </h3>
-<h1 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25">  SHAE  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25"> </li></h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25">  SHAE  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25"></h1>
 
-<h3  align="center">I'm currently working on a Master's degree at 
+<h3  align="center">I'm currently working toward a Master's degree at </h3>
+<h3  align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg" height="48" width="96"/> 
+<a href="https://vtmit.vt.edu/"></a></h3>
 
-<a href="https://vtmit.vt.edu/academics/modules/software-development.html">Virginia Tech  </a>
+<h4  align="center">Specializing in </h4>
+<h4  align="center"><a href="https://vtmit.vt.edu/academics/modules/software-development.html">Software Development </a>  and 
+<a href="https://vtmit.vt.edu/academics/modules/security2.html"> Cybersecurity Policy</a> </h4>
 
-  
-  <a href="https://vtmit.vt.edu/academics/modules/security2.html"><img src="https://vtmit.vt.edu/content/vtmit_vt_edu/en/academics/graduate-certificates/jcr:content/content/vtcontainer/vtcontainer-content/vtcontainer/vtcontainer-content/vtmultitab_copy/vt-items_9/adaptiveimage.transform/xl-medium/image.jpg" width="96" height="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg" height="48" width="96"/> <a href="https://vtmit.vt.edu/academics/modules/software-development.html"><img src="https://vtmit.vt.edu/content/vtmit_vt_edu/en/academics/graduate-certificates/jcr:content/content/vtcontainer/vtcontainer-content/vtcontainer/vtcontainer-content/vtmultitab_copy/vt-items_3/adaptiveimage.transform/xl-medium/image.jpg" width="96" height="48"></a> </h3>
   
 <h2></h2>
 
