@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Hi, I’m Shannon Smith but <em>almost</em> everyone calls me </h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Avenir&duration=3000&pause=1000&color=FFFFFF&center=true&multiline=true&width=435&lines=Hi%2C+I%E2%80%99m+Shannon+Smith+;but+almost+everyone+calls+me" alt="Typing SVG" /></a></h3>
 <h1 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25">  SHAE  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25"></h1>
 
 <h3  align="center">I'm currently working toward a Master's degree at </h3>
@@ -35,6 +35,8 @@ When I'm NOT doing that, I'm...
 [![Facebook](https://user-images.githubusercontent.com/75339573/189492071-a27b3293-7983-4adf-851e-93fc1fdc9757.png)](https://www.facebook.com/shaesmith1223")
 [![Portfolio](https://img.icons8.com/nolan/48/s.png)](https://thereisnospoon1223.github.io/Shae%20Smith/index.html)
 [![Wix](https://user-images.githubusercontent.com/75339573/189492299-8fe30fb6-b0ff-4406-bbf2-fa7f8f41645d.png)](https://shae1223.wixsite.com/shaesmith)
+
+
 
 <h2></h2>
 
