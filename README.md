@@ -1,9 +1,6 @@
-<p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shannon+Smith;but+almost+everyone+calls+me&center=true&width=500&height=50"></a>
-</p>
-<h1 align="center">
-    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25">  SHAE  
-    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25"></a>
+<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shannon+Smith;but+almost+everyone+calls+me&center=true&width=500&height=50"></a></p>
+
+<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25">  SHAE  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25"></a>
 </h1>
 
 <h3 align="center"> I'm currently working toward a Master's degree at </h3>
