@@ -34,33 +34,41 @@
 
 [![Spotify](a href=https://spotify-github-profile.vercel.app/api/view?uid=125645949&cover_image=true&theme=default)
 
-<h3 align="center"> 🛠️ My Skills </h3>
+<h3 align="center"> My Skills </h3>
 
-<h4 align="center"> 👇 Programming languages</h4>
+<h4 align="center"> 👇 Front-End</h4> 
 <p align="center">
-	
-  <a title="Java" href="https://www.java.com/">
+    <a title="Javascript" href="https://www.javascript.com/">
     <img src="https://img.icons8.com/fluency/48/000000/javascript.png"/>
-  </a>
-  <a title="Javascript" href="https://www.javascript.com/">
-    <img src="https://img.icons8.com/fluency/48/000000/javascript.png"/>
-  </a>
-  <a title="HTML" href="https://www.java.com/en/">
+    </a>
+    <a title="HTML" href="https://www.java.com/en/">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  </a>
-  <a title="CSS" href="https://www.python.org/">
+    </a>
+    <a title="CSS" href="https://en.wikipedia.org/wiki/CSS">
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  </a>
-  <a title="Sass" href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    </a>
+    <a title="Sass" href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-  </a>
-  <a title="Eclipse" href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.icons8.com/nolan/64/java-eclipse.png"/>
-  </a>
-  <a title="MySql" href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  </a>
+    </a>
 </p>
+
+<h4 align="center"> 👇 Back-End</h4> 
+<p align="center">
+    <a title="Java" href="https://www.java.com/">
+    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-java-computer-programming-flaticons-flat-flat-icons.png"/>
+    </a>
+</p>
+
+<h4 align="center"> 👇 IDE's </h4> 
+<p align="center">
+    <a title="Eclipse" href="https://www.eclipse.org/ide/">
+    <img src="https://img.icons8.com/nolan/64/java-eclipse.png"/>
+    </a>
+    <a title="IntelliJ" href="https://www.jetbrains.com/idea/">
+    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+    </a>
+</p>
+
 
 
 <h2></h2>
