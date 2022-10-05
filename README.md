@@ -32,12 +32,35 @@
    
 <h2></h2>
 
-<p align="center"><a href=https://spotify-github-profile.vercel.app/api/view?uid=125645949&cover_image=true&theme=default></p>
+[![Spotify](a href=https://spotify-github-profile.vercel.app/api/view?uid=125645949&cover_image=true&theme=default)
 
-<h3> 🛠️ My Skills </h3>
+<h3 align="center"> 🛠️ My Skills </h3>
 
-<h4 👉 Programming languages </h4>
-<p><img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png>
+<h4 align="center"> 👇 Programming languages</h4>
+<p align="center">
+	
+  <a title="Java" href="https://www.java.com/">
+    <img src="https://img.icons8.com/fluency/48/000000/javascript.png"/>
+  </a>
+  <a title="Javascript" href="https://www.javascript.com/">
+    <img src="https://img.icons8.com/fluency/48/000000/javascript.png"/>
+  </a>
+  <a title="HTML" href="https://www.java.com/en/">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  </a>
+  <a title="CSS" href="https://www.python.org/">
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  </a>
+  <a title="Sass" href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+  </a>
+  <a title="Eclipse" href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.icons8.com/nolan/64/java-eclipse.png"/>
+  </a>
+  <a title="MySql" href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  </a>
+</p>
 
 
 <h2></h2>
@@ -51,6 +74,7 @@
     </summary>
 <br>
 
+	
    [![GitHub Streak](https://streak-stats.demolab.com?user=thereisnospoon1223&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4)](https://git.io/streak-stats)
 
    [![GitHub Read Me Stats](https://github-readme-stats.vercel.app/api?username=thereisnospoon1223&theme=radical&hide_border=true&count_private=true)](https://github.com/thereisnospoon1223/github-readme-stats)  
