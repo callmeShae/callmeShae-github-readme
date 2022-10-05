@@ -29,15 +29,14 @@
     When I'm NOT doing that, I'm...
 </h3>
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Improving+my+Programming+skills;Painting,+drawing,+sculpting+or+woodworking;Completing+home+renovation+projects;Spending+time+with+my+wife+and+pets;Always+ready+to+collaborate&center=true&width=500&height=50"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨‍💻+Improving+my+Programming+skills;🎨+Painting,+drawing,+sculpting+or+woodworking;🏠+Completing+home+renovation+projects;Spending+time+with+my+💍+wife+and+🐾+pets;🚀+Always+ready+to+collaborate&center=true&width=500&height=50"></a>
 </p>
-
 
 <h2>
 </h2>
 
 <h3 align="center">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me:
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me
 </h3>
 
    [![Linkedin](https://user-images.githubusercontent.com/75339573/189492088-7ca9ba8e-4cc0-4455-a7e2-4c7f23a8d9a0.png)](https://www.linkedin.com/in/shae-smith1223/)
@@ -49,7 +48,9 @@
     
 <h2></h2>
 
+<p align="center">    <a href=
    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=125645949&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+</p>
 
 <h3>
     Languages and 🛠️ Tools:
