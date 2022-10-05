@@ -5,7 +5,7 @@
 
 <h3 align="center">I'm currently working toward a Master's degree at </h3>
 
-<h3 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg" height="48" width="96"/><a href="https://vtmit.vt.edu/"></a></h3>
+<h3 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg" height="48" width="96"/></a></h3>
 
 <h4 align="center">Specializing in </h4>
 
