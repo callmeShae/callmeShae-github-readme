@@ -17,7 +17,9 @@
 
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨‍💻+Improving+my+Programming+skills;🎨+Painting,+drawing,+sculpting+or+woodworking;🏠+Completing+home+renovation+projects;Spending+time+with+my+💍+wife+and+🐾+pets;🚀+Always+ready+to+collaborate&center=true&width=500&height=50"></a></p>
 
+
 <h2></h2>
+
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me</h3>
 
@@ -26,8 +28,8 @@
    [![Facebook](https://user-images.githubusercontent.com/75339573/189492071-a27b3293-7983-4adf-851e-93fc1fdc9757.png)](https://www.facebook.com/shaesmith1223")
    [![Portfolio](https://img.icons8.com/nolan/48/s.png)](https://thereisnospoon1223.github.io/Shae%20Smith/index.html)
    [![Wix](https://user-images.githubusercontent.com/75339573/189492299-8fe30fb6-b0ff-4406-bbf2-fa7f8f41645d.png)](https://shae1223.wixsite.com/shaesmith)
-    <p> 📧 How to reach me: sasmith1223@rocketmail.com </p>
-    
+   
+   
 <h2></h2>
 
 <p align="center"><a href=https://spotify-github-profile.vercel.app/api/view?uid=125645949&cover_image=true&theme=default></p>
