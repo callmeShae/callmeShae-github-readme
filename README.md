@@ -22,11 +22,12 @@
 
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me </h3>
+								      
 <p align="center">
     <a title="Linkedin" href="https://www.linkedin.com/in/shae-smith1223/">
-    <img src="<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-</p>
-										      
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+    </a>
+</p>										      
 										      
 <h2></h2>										      
 									      
