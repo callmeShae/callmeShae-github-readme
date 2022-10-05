@@ -32,7 +32,7 @@
    
 <h2></h2>
 
-[![Spotify](a href=https://spotify-github-profile.vercel.app/api/view?uid=125645949&cover_image=true&theme=default)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=125645949&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="center"> My Skills </h3>
 
