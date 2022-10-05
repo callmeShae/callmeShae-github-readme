@@ -1,18 +1,13 @@
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&vCenter=true&width=760&lines=Hi+I'm+Shannon+Smith;but+almost+everyone+calls+me;)](https://git.io/typing-svg)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&vCenter=true&width=760&lines=%F0%9F%91%8B%2C)
-<h1 align="center"> 
-    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25">  SHAE  
-    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25">
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com?size=20&vCenter=true&width=760&lines=Hi,+I'm+Shannon+Smith;but+almost+everyone+calls+me;%F0%9F%91%8B%2C+ SHAE +%F0%9F%91%8B%2C;">
+    <a>
+        <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25">  SHAE  
+    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25"></a>
 </h1>
 
 <h3 align="center">
     I'm currently working toward a Master's degree at 
-</h3>
-
-<h3 align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg" height="48" width="96"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg" height="48" width="96"/>
     </a>
 </h3>
 
