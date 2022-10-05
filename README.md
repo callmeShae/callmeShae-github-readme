@@ -8,9 +8,10 @@
 
 <h3 align="center">
     I'm currently working toward a Master's degree at 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg" height="48" width="96"/>
-    </a>
 </h3>
+<p align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg" height="48" width="96"/>
+</p>
 
 <h4 align="center">
     Specializing in 
@@ -27,18 +28,16 @@
 <h3 align="center">
     When I'm NOT doing that, I'm...
 </h3>
-<p  align="center"><a> 👨‍💻 Improving my Programming skills! </a></p>
-<p  align="center"><a> 🚀 Always ready to collaborate </a></p>
-<p  align="center"><a> 🎨 Working on art of any kind (painting, drawing, sculpture and woodworking) </a>
-<p  align="center"><a> 🏠 Completing home renovation projects </a>
-<p  align="center"><a> 💍 Spending time with my wife and pets </a>
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Improving+my+Programming+skills;Painting,+drawing,+sculpting+or+woodworking;Completing+home+renovation+projects;Spending+time+with+my+wife+and+pets;Always+ready+to+collaborate&center=true&width=500&height=50"></a>
+</p>
 
 
 <h2>
 </h2>
 
 <h3 align="center">
-    Connect with me:
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me:
 </h3>
 
    [![Linkedin](https://user-images.githubusercontent.com/75339573/189492088-7ca9ba8e-4cc0-4455-a7e2-4c7f23a8d9a0.png)](https://www.linkedin.com/in/shae-smith1223/)
@@ -53,7 +52,7 @@
    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=125645949&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <h3>
-    Languages and Tools:
+    Languages and 🛠️ Tools:
 </h3>
 
    ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
@@ -71,7 +70,7 @@
     
 <summary>
     <h3>
-        Stats:
+        📊 Github Stats:
     </h3>
     </summary>
 <br>
@@ -82,9 +81,9 @@
 
    [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnospoon1223&&theme=radical&hide_border=true&layout=compact)](https://github.com/thereisnospoon1223/github-readme-stats)
  
-</details>
-
 ![snake gif](https://github.com/BrunoGonSouza/BrunoGonSouza/blob/output/github-contribution-grid-snake.svg)
+
+</details>
 
 <h2></h2>
 
