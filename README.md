@@ -3,15 +3,15 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25">  SHAE  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25"></a>
 </h1>
 
+
 <h3 align="center"> I'm currently working toward a Master's degree at </h3>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg" height="48" width="96"/></p>
-
 <h4 align="center"> Specializing in </h4>
-<h3 align="center">
-    <a href="https://vtmit.vt.edu/academics/curriculum.html#graduate-certificates"> Software Development and Cybersecurity Policy </a>
-</h3>
+<h3 align="center"><a href="https://vtmit.vt.edu/academics/curriculum.html#graduate-certificates"> Software Development and Cybersecurity Policy </a></h3>
+
 
 <h2></h2>
+
 
 <h3 align="center"> When I'm NOT doing that, I'm... </h3>
 
