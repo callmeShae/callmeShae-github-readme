@@ -20,12 +20,12 @@
 
 <h2></h2>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me </h3>
 								      
 <p align="center">
     <a title="Linkedin" href="https://www.linkedin.com/in/shae-smith1223/">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/nolan/48/linkedin.png"/>
     </a>
     <a title="Portfolio" href="https://thereisnospoon1223.github.io/Shae%20Smith/index.html">
     <img src="https://img.icons8.com/nolan/48/s.png"/>
@@ -34,15 +34,14 @@
     <img src="https://user-images.githubusercontent.com/75339573/189492299-8fe30fb6-b0ff-4406-bbf2-fa7f8f41645d.png"/>
     </a>
     <a title="Instagram" href="https://www.instagram.com/shaeasis/">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+    <img src="https://img.icons8.com/nolan/48/instagram-new.png"/>
     </a>
     <a title="Facebook" href="https://www.facebook.com/shaesmith1223">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>
+    <img src="https://img.icons8.com/nolan/48/facebook.png"/>
     </a>
-
-
 </p>										      
-										      
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2></h2>										      
 									      
 
