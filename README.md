@@ -119,7 +119,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
 
 
-<h3 align="center"> Support Me on my Journey! </h3>
+<h3 align="center"> 🍀 Support Me on my Journey! 🍀 </h3>
 
 
 <p align="center"><a href="https://www.buymeacoffee.com/shaesmith1223"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="50" width="210"></a>
