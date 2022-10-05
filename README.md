@@ -9,7 +9,7 @@
 
 <h4 align="center">Specializing in </h4>
 
-<h3 align="center"><a href="https://vtmit.vt.edu/academics/modules/software-development.html">Software Development </a> and <a href="https://vtmit.vt.edu/academics/modules/security2.html">Cybersecurity Policy</a></h3>
+<h3 align="center"><a href="https://vtmit.vt.edu/academics/curriculum.html#graduate-certificates">Software Development and Cybersecurity Policy</a></h3>
 
 <h2></h2>
 
