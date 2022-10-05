@@ -21,18 +21,16 @@
 <h2></h2>
 
 
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me </h3>
 
-   [![Linkedin](https://user-images.githubusercontent.com/75339573/189492088-7ca9ba8e-4cc0-4455-a7e2-4c7f23a8d9a0.png)](https://www.linkedin.com/in/shae-smith1223/)
-   [![Instagram](https://user-images.githubusercontent.com/75339573/189492129-4eb6d047-7079-4a21-b0fa-d1cb8afb18ec.png)](https://www.instagram.com/shaeasis/)
-   [![Facebook](https://user-images.githubusercontent.com/75339573/189492071-a27b3293-7983-4adf-851e-93fc1fdc9757.png)](https://www.facebook.com/shaesmith1223")
-   [![Portfolio](https://img.icons8.com/nolan/48/s.png)](https://thereisnospoon1223.github.io/Shae%20Smith/index.html)
-   [![Wix](https://user-images.githubusercontent.com/75339573/189492299-8fe30fb6-b0ff-4406-bbf2-fa7f8f41645d.png)](https://shae1223.wixsite.com/shaesmith)
-   
-   
-<h2></h2>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=125645949&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+    <a title="Linkedin" href="https://www.linkedin.com/in/shae-smith1223/">
+	    <img src="<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+</p>
+										      
+										      
+<h2></h2>										      
+									      
 
 <h3 align="center"> My Skills </h3>
 
@@ -70,7 +68,6 @@
 </p>
 
 
-
 <h2></h2>
 
 <details>
@@ -82,7 +79,6 @@
     </summary>
 <br>
 
-	
    [![GitHub Streak](https://streak-stats.demolab.com?user=thereisnospoon1223&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4)](https://git.io/streak-stats)
 
    [![GitHub Read Me Stats](https://github-readme-stats.vercel.app/api?username=thereisnospoon1223&theme=radical&hide_border=true&count_private=true)](https://github.com/thereisnospoon1223/github-readme-stats)  
