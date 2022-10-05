@@ -58,7 +58,10 @@
 [![GitHub Read Me Stats](https://github-readme-stats.vercel.app/api?username=thereisnospoon1223&theme=radical&hide_border=true&count_private=true)](https://github.com/thereisnospoon1223/github-readme-stats)  
 
 [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnospoon1223&&theme=radical&hide_border=true&layout=compact)](https://github.com/thereisnospoon1223/github-readme-stats)
+ 
 </details>
+
+![snake gif](https://github.com/BrunoGonSouza/BrunoGonSouza/blob/output/github-contribution-grid-snake.svg)
 
 <h2></h2>
 
@@ -69,6 +72,8 @@
 Liked my GitHub❓👉 <a href="https://github.com/sponsors/thereisnospoon1223/dashboard/profile">Sponsor me</a> a Dollar 💰 💵 ✨
   
 Liked my Contributions❓👉 Nominate Me for <a href="https://stars.github.com/nominate/">GitHub Stars </a>⭐ ✨ 
+
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thereisnospoon1223.visitor-badge&left_color=blue&right_color=purple)
 
