@@ -1,7 +1,12 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
+
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shannon+Smith;but+almost+everyone+calls+me&center=true&width=500&height=50"></a></p>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25">  SHAE  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25"></a>
-</h1>
+<h3 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25">  SHAE  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" height="25"></a>
+</h3>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
 
 
 <h3 align="center"> I'm currently working toward a Master's degree at </h3>
@@ -10,7 +15,7 @@
 <h3 align="center"><a href="https://vtmit.vt.edu/academics/curriculum.html#graduate-certificates"> Software Development and Cybersecurity Policy </a></h3>
 
 
-<h2></h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
 
 
 <h3 align="center"> When I'm NOT doing that, I'm... </h3>
@@ -18,9 +23,9 @@
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👨‍💻+Improving+my+Programming+skills;🎨+Painting,+drawing,+sculpting+or+woodworking;🏠+Completing+home+renovation+projects;Spending+time+with+my+💍+wife+and+🐾+pets;🚀+Always+ready+to+collaborate&center=true&width=500&height=50"></a></p>
 
 
-<h2></h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me </h3>
 								      
 <p align="center">
@@ -39,11 +44,11 @@
     <a title="Facebook" href="https://www.facebook.com/shaesmith1223">
     <img src="https://img.icons8.com/nolan/48/facebook.png"/>
     </a>
-</p>										      
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>	
 
-<h2></h2>										      
-									      
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
+
 
 <h3 align="center"> My Skills </h3>
 
@@ -81,7 +86,8 @@
 </p>
 
 
-<h2></h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
+
 
 <details>
     
@@ -102,7 +108,9 @@
 
 </details>
 
-<h2></h2>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
+
 
 <h3 align="center"> Support Me on my Journey! </h3>
 
@@ -120,7 +128,12 @@
     <img src="https://img.shields.io/github/stars/thereisnospoon1223?label=Stars" alt="Total Stars">
 </p>
 
-Credits: [thereisnospoon1223](https://github.com/thereisnospoon1223)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
+
+
+<p align="center"> Credits: <a href="https://github.com/thereisnospoon1223"> thereisnospoon1223 </a>
+</p>
+
 	
 <!---
 thereisnospoon1223/thereisnospoon1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
