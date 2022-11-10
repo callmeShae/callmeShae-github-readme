@@ -39,7 +39,7 @@
     <a title="Linkedin" href="https://www.linkedin.com/in/call-me-shae/">
     <img src="https://img.icons8.com/nolan/48/linkedin.png"/>
     </a>
-    <a title="Portfolio" href="https://thereisnospoon1223.github.io/Shae%20Smith/index.html">
+    <a title="Portfolio" href="https://thereisnoShannon.github.io/Shae%20Smith/index.html">
     <img src="https://img.icons8.com/nolan/48/s.png"/>
     </a>
     <a title="WixSite" href="https://shae1223.wixsite.com/shaesmith">
