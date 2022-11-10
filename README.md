@@ -36,7 +36,7 @@
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me </h3>
 								      
 <p align="center">
-    <a title="Linkedin" href="https://www.linkedin.com/in/shae-smith1223/">
+    <a title="Linkedin" href="https://www.linkedin.com/in/call-me-shae/">
     <img src="https://img.icons8.com/nolan/48/linkedin.png"/>
     </a>
     <a title="Portfolio" href="https://thereisnospoon1223.github.io/Shae%20Smith/index.html">
