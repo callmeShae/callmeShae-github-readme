@@ -118,20 +118,20 @@
 <p align="center"><a href="https://www.buymeacoffee.com/shaesmith1223"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="50" width="210"></a>
 </p>
 
-<p align="center"> Liked my GitHub❓ <a href="https://github.com/sponsors/thereisnospoon1223/dashboard/profile"> Sponsor me </a> a Dollar 💵 
+<p align="center"> Liked my GitHub❓ <a href="https://github.com/sponsors/thereisnoShannon/dashboard/profile"> Sponsor me </a> a Dollar 💵 
 </p>
 
 <p align="center">Liked my Contributions❓ Nominate Me for <a href="https://stars.github.com/nominate/"> GitHub Stars </a>⭐ 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=k-star-229&label=Profile%20views&color=0e75b6&style=plastic" alt="thereisnospoon1223" />
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/thereisnospoon1223?label=Followers&style=social">    
-    <img src="https://img.shields.io/github/stars/thereisnospoon1223?label=Stars" alt="Total Stars">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/thereisnoShannon?label=Followers&style=social">    
+    <img src="https://img.shields.io/github/stars/thereisnoShannon?label=Stars" alt="Total Stars">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
 
 
-<p align="center"> Credits: <a href="https://github.com/thereisnospoon1223"> thereisnospoon1223 </a>
+<p align="center"> Credits: <a href="https://github.com/thereisnoShannon"> thereisnoShannon </a>
 </p>
 
 	
