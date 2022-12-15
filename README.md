@@ -98,11 +98,11 @@
     </summary>
 <br>
 
-   [![GitHub Streak](https://streak-stats.demolab.com?user=thereisnospoon1223&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com?user=thereisnoShannon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4)](https://git.io/streak-stats)
 
-   [![GitHub Read Me Stats](https://github-readme-stats.vercel.app/api?username=thereisnospoon1223&theme=radical&hide_border=true&count_private=true)](https://github.com/thereisnospoon1223/github-readme-stats)  
+   [![GitHub Read Me Stats](https://github-readme-stats.vercel.app/api?username=thereisnospoon1223&theme=radical&hide_border=true&count_private=true)](https://github.com/thereisnoShannon/github-readme-stats)  
 
-   [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnospoon1223&&theme=radical&hide_border=true&layout=compact)](https://github.com/thereisnospoon1223/github-readme-stats)
+   [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnospoon1223&&theme=radical&hide_border=true&layout=compact)](https://github.com/thereisnoShannon/github-readme-stats)
  
 ![snake gif](https://github.com/BrunoGonSouza/BrunoGonSouza/blob/output/github-contribution-grid-snake.svg)
 
@@ -136,6 +136,6 @@
 
 	
 <!---
-thereisnospoon1223/thereisnospoon1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+thereisnoShannon/thereisnoShannon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
