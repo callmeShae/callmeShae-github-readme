@@ -42,7 +42,7 @@
     <a title="Portfolio" href="https://thereisnoShannon.github.io/Shae%20Smith/index.html">
     <img src="https://img.icons8.com/nolan/48/s.png"/>
     </a>
-    <a title="WixSite" href="https://shae1223.wixsite.com/shaesmith">
+    <a title="WixSite" href="https://shae1223.wixsite.com/shae-smith-artist">
     <img src="https://user-images.githubusercontent.com/75339573/189492299-8fe30fb6-b0ff-4406-bbf2-fa7f8f41645d.png"/>
 </p>	
 
