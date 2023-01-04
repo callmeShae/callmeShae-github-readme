@@ -37,13 +37,19 @@
 								      
 <p align="center">
     <a title="Linkedin" href="https://www.linkedin.com/in/call-me-shae/">
-    <img src="https://img.icons8.com/nolan/48/linkedin.png"/>
+    <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
     </a>
     <a title="Portfolio" href="https://thereisnoShannon.github.io/Shae%20Smith/index.html">
-    <img src="https://img.icons8.com/nolan/48/s.png"/>
+    <img src="https://img.icons8.com/nolan/64/github.png"/>
     </a>
-    <a title="WixSite" href="https://shae1223.wixsite.com/shae-smith-artist">
+    <a title="Art Site" href="https://shae1223.wixsite.com/shae-smith-artist">
     <img src="https://user-images.githubusercontent.com/75339573/189492299-8fe30fb6-b0ff-4406-bbf2-fa7f8f41645d.png"/>
+    </a>
+    <a title="Facebook" href="https://www.facebook.com/shaesmith1223">
+    <img src="https://img.icons8.com/nolan/64/facebook.png"/>
+    </a>
+    <a title="Instagram" href="https://www.instagram.com/shaeasis/">
+    <img src="https://img.icons8.com/nolan/64/instagram-new.png"/>
 </p>	
 
 
@@ -55,24 +61,24 @@
 <h4 align="center"> 👇 Front-End</h4> 
 <p align="center">
     <a title="Javascript" href="https://www.javascript.com/">
-    <img src="https://img.icons8.com/fluency/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/nolan/64/javascript.png"/>
     </a>
     <a title="HTML" href="https://www.java.com/en/">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img src="https://img.icons8.com/nolan/64/html-5.png"/>
     </a>
     <a title="CSS" href="https://en.wikipedia.org/wiki/CSS">
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/64/000000/css3.png"/>
     </a>
     <a title="Sass" href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">
-    <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+    <img src="https://img.icons8.com/color/64/000000/sass.png"/>
     </a>
 </p>
 
 <h4 align="center"> 👇 Back-End</h4> 
 <p align="center">
     <a title="Java" href="https://www.java.com/">
-    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-java-computer-programming-flaticons-flat-flat-icons.png"/>
-    </a>
+    <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
+</a>
 </p>
 
 <h4 align="center"> 👇 IDE's </h4> 
@@ -81,7 +87,7 @@
     <img src="https://img.icons8.com/nolan/64/java-eclipse.png"/>
     </a>
     <a title="IntelliJ" href="https://www.jetbrains.com/idea/">
-    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+    <img src="https://img.icons8.com/color/64/000000/intellij-idea.png"/>
     </a>
 </p>
 
