@@ -77,7 +77,7 @@
 <h4 align="center"> 👇 Back-End</h4> 
 <p align="center">
     <a title="Java" href="https://www.java.com/">
-    <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
+    <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
 </a>
 </p>
 
