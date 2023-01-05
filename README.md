@@ -84,7 +84,7 @@
 <h4 align="center"> 👇 IDE's </h4> 
 <p align="center">
     <a title="Eclipse" href="https://www.eclipse.org/ide/">
-    <img src="https://img.icons8.com/nolan/48/java-eclipse.png"/>
+    <img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" width="48px" height="48px"/>
     </a>
     <a title="IntelliJ" href="https://www.jetbrains.com/idea/">
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
