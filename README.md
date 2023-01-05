@@ -61,12 +61,12 @@
 <h4 align="center"> 👇 Front-End</h4> 
 <p align="center">
     <a title="Javascript" href="https://www.javascript.com/">
-    <img src="https://img.icons8.com/nolan/48/javascript.png"/>
+    <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
     </a>
-    <a title="HTML" href="https://www.java.com/en/">
-    <img src="https://img.icons8.com/nolan/48/html-5.png"/>
+    <a title="HTML5" href="https://www.java.com/en/">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png"/>
     </a>
-    <a title="CSS" href="https://en.wikipedia.org/wiki/CSS">
+    <a title="CSS3" href="https://en.wikipedia.org/wiki/CSS">
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     </a>
     <a title="Sass" href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">
