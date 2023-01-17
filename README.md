@@ -33,7 +33,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
 
 
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me </h3>
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h3>
 								      
 <p align="center">
     <a title="Linkedin" href="https://www.linkedin.com/in/call-me-shae/">
@@ -92,15 +92,11 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
-
-
-<details>
     
 <summary>
-    <h3>
-        📊 Github Stats 
-    </h3>
-    </summary>
+    <h3 align="center"> 📊 Github Stats </h3>
+</summary>
+	
 <br>
 
    [![GitHub Streak](https://streak-stats.demolab.com?user=thereisnoShannon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4)](https://git.io/streak-stats)
@@ -109,12 +105,13 @@
 
    [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&&theme=radical&hide_border=true&layout=compact)](https://github.com/thereisnoShannon/github-readme-stats)
  
-![snake gif](https://github.com/BrunoGonSouza/BrunoGonSouza/blob/output/github-contribution-grid-snake.svg)
-
-</details>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
+
+![snake gif](https://github.com/BrunoGonSouza/BrunoGonSouza/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h3 align="center"> 🍀 Support Me on my Journey! 🍀 </h3>
