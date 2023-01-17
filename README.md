@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://wallpaperaccess.com/full/3156705.jpg" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/thereisnoShannon/photos/blob/main/purple.jpg" style = "width: -webkit-fill-available;"/>
 </p>
 
 
@@ -58,13 +58,15 @@
 
 <h3 align="center"> My Skills </h3>
 
-<h4 align="center"> 👇 Front-End</h4> 
 <p align="center">
+    <a title="Java" href="https://www.java.com/">
+    <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
+    </a>
     <a title="Javascript" href="https://www.javascript.com/">
     <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
     </a>
     <a title="HTML5" href="https://www.java.com/en/">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png"/>
+    <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
     </a>
     <a title="CSS3" href="https://en.wikipedia.org/wiki/CSS">
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -72,23 +74,20 @@
     <a title="Sass" href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
     </a>
-</p>
-
-<h4 align="center"> 👇 Back-End</h4> 
-<p align="center">
-    <a title="Java" href="https://www.java.com/">
-    <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
-</a>
-</p>
-
-<h4 align="center"> 👇 IDE's </h4> 
-<p align="center">
+    <a title="Kotlin" href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
+    <img src="https://img.icons8.com/color/48/null/kotlin.png"/>
+    </a>
     <a title="Eclipse" href="https://www.eclipse.org/ide/">
     <img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" width="48px" height="48px"/>
     </a>
     <a title="IntelliJ" href="https://www.jetbrains.com/idea/">
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
     </a>
+    <a title="Android Studio" href="https://en.wikipedia.org/wiki/Android_Studio">    
+    <img src="https://img.icons8.com/color/48/null/android-studio--v2.png"/>
+    </a>
+    <a title="GitLab" href="https://about.gitlab.com/">  
+    <img src="https://img.icons8.com/color/48/null/gitlab.png"/>
 </p>
 
 
@@ -99,7 +98,7 @@
     
 <summary>
     <h3>
-        📊 Github Stats 👇
+        📊 Github Stats 
     </h3>
     </summary>
 <br>
