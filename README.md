@@ -88,6 +88,8 @@
     </a>
     <a title="GitLab" href="https://about.gitlab.com/">  
     <img src="https://img.icons8.com/color/48/null/gitlab.png"/>
+    </a>
+
 </p>
 
 
