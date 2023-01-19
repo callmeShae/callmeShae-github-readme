@@ -93,10 +93,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
   
-<details>	
-<summary>
-    <h3 align="center"> 📊 Github Stats </h3>
-</summary>
+	
+<h3 align="center"> 📊 Github Stats </h3>
 	
 <br>
 
@@ -107,19 +105,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thereisnoShannon&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/thereisnoShannon/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&&theme=radical&hide_border=true&langs_count=10&layout=compact&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&&theme=radical&hide_border=true&langs_count=10&layout=compact&repo=github-readme-stats"  width="350" height="200""/>
 </a>
-	
-	
-<!---	
-![Shae's GitHub stats](https://github-readme-stats.vercel.app/api?username=thereisnoShannon&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&langs_count=10&layout=compact)](https://github.com/thereisnoShannon/github-readme-stats)
---->
-	
-
-	
-</details>
+<a href="https://github.com/thereisnoShannon/github-readme-stats">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereisnoShannon&theme=radical" width="650" height="200"/>
+</a>	
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
