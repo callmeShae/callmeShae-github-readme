@@ -102,8 +102,6 @@
 
    [![GitHub Streak](https://streak-stats.demolab.com?user=thereisnoShannon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4)](https://git.io/streak-stats)
 
-   [![GitHub Read Me Stats](https://github-readme-stats.vercel.app/api?username=thereisnoShannon&theme=radical&hide_border=true&count_private=true)](https://github.com/thereisnoShannon/github-readme-stats)  
-
 	
 ![Shae's GitHub stats](https://github-readme-stats.vercel.app/api?username=thereisnoShannon&theme=radical)
 
