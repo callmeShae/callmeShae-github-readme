@@ -101,16 +101,16 @@
 <br>
 
 <a href="https://streak-stats.demolab.com/thereisnoShannon/">
-  <img align="center" src="https://streak-stats.demolab.com?user=thereisnoShannon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4" />
+  <img align="center" src="https://streak-stats.demolab.com?user=thereisnoShannon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4" width="400" />
 </a>
 <a href="https://github.com/thereisnoShannon/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thereisnoShannon&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thereisnoShannon&theme=radical&hide_border=true" width="400" />
 </a>
 <a href="https://github.com/thereisnoShannon/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&&theme=radical&hide_border=true&langs_count=10&layout=compact&repo=github-readme-stats"  width="350" height="200""/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&&theme=radical&hide_border=true&langs_count=10&layout=compact&repo=github-readme-stats"  width="300" height="180" />
 </a>
 <a href="https://github.com/thereisnoShannon/github-readme-stats">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereisnoShannon&theme=radical" width="650" height="200"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereisnoShannon&theme=radical" width="520" height="180"/>
 </a>	
 
 
