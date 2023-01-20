@@ -65,16 +65,16 @@
     <a title="Javascript" href="https://www.javascript.com/">
     <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
     </a>
-    <a title="HTML5" href="https://www.java.com/en/">
+    <a title="HTML5" href="https://html.spec.whatwg.org/multipage/">
     <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
     </a>
-    <a title="CSS3" href="https://en.wikipedia.org/wiki/CSS">
+    <a title="CSS3" href="https://www.w3.org/TR/CSS/#css">
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     </a>
-    <a title="Sass" href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">
+    <a title="Sass" href="https://sass-lang.com/">
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
     </a>
-    <a title="Kotlin" href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
+    <a title="Kotlin" href="https://kotlinlang.org/">
     <img src="https://img.icons8.com/color/48/null/kotlin.png"/>
     </a>
     <a title="Eclipse" href="https://www.eclipse.org/ide/">
@@ -83,11 +83,14 @@
     <a title="IntelliJ" href="https://www.jetbrains.com/idea/">
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
     </a>
-    <a title="Android Studio" href="https://en.wikipedia.org/wiki/Android_Studio">    
+    <a title="Android Studio" href="https://developer.android.com/studio">    
     <img src="https://img.icons8.com/color/48/null/android-studio--v2.png"/>
     </a>
     <a title="GitLab" href="https://about.gitlab.com/">  
     <img src="https://img.icons8.com/color/48/null/gitlab.png"/>
+    </a>
+    <a title="Git" href="https://git-scm.com/">     
+    <img src="https://img.icons8.com/color/48/null/git.png"/>
     </a>
 
 </p>
