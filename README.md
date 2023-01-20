@@ -110,7 +110,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&&theme=radical&hide_border=true&langs_count=10&&layout=compact&repo=github-readme-stats" width="300" />
 </a>
 <a href="https://github.com/thereisnoShannon/github-readme-stats">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereisnoShannon&theme=radical" width="510" height="200"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereisnoShannon&theme=radical" width="510" />
 </a>	
 
 
