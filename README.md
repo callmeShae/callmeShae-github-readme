@@ -32,7 +32,7 @@
 
 <h3 align="center"> When I'm NOT doing that, I'm... </h3>
 
-<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=💻+Improving+my+Programming+skills;🎨+Painting,+drawing,+sculpting+or+woodworking;🏠+Completing+home+renovation+projects;Spending+time+with+my+💍+wife+and+🐾+pets;🚀+Always+ready+to+collaborate&center=true&width=500&height=50"></a></p>
+<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=💻+Improving+my+Programming+skills;+Drawing+and+Painting;;+Sculpting+or+Woodworking;🏠+Doing+home+reno+projects;Spending+time+with+my+💍+and+🐾🐾🐾🐾;🚀+Always+ready+to+collaborate&center=true&width=500&height=50"></a></p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
