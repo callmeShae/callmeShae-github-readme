@@ -107,7 +107,7 @@
   <img align="center" src="https://streak-stats.demolab.com?user=thereisnoShannon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4"  />
 </a>
 <a href="https://github.com/thereisnoShannon/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&theme=radical&hide_border=true&langs_count=10&layout=compact&repo=github-readme-stats"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&langs_count=10&theme=radical&hide_border=true&layout=compact&repo=github-readme-stats"  />
 </a>
 <a href="https://github.com/thereisnoShannon/github-readme-stats">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereisnoShannon&theme=radical"  />
