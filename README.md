@@ -19,11 +19,11 @@
 <h3 align="center"><a href="https://vtmit.vt.edu/academics/curriculum.html#graduate-certificates"> Software Development and Cybersecurity Policy </a></h3>
 
 <h4 align="center"> Spring 2023: </h4>
-<h4 align="center"> 👨‍💻  Software Engineering </h4>
-<h4 align="center"> 💻  Mobile App Development</h4>
+<h4 align="center"> 👨‍💻 Software Engineering </h4>
+<h4 align="center"> 📱 Mobile App Development</h4>
 <h4 align="center"> Summer 2023: </h4>
-<h4 align="center"> 💻  Web App Development </h4>
-<h4 align="center"> 🛡️  Cybersecurity and the Internet of Things </h4>
+<h4 align="center"> 💻 Web App Development </h4>
+<h4 align="center"> 🛡️ Cybersecurity and the Internet of Things </h4>
 
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=+AND+THEN+.........;🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓;&center=true&width=500&height=50"></a></p>
 
@@ -32,7 +32,7 @@
 
 <h3 align="center"> When I'm NOT doing that, I'm... </h3>
 
-<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=💻+Improving+my+Programming+skills;+Drawing+and+Painting;;+Sculpting+or+Woodworking;🏠+Doing+home+reno+projects;Spending+time+with+my+💍+and+🐾🐾🐾🐾;🚀+Always+ready+to+collaborate&center=true&width=500&height=50"></a></p>
+<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=💻+Improving+my+Programming+skills;🎨+Drawing+and+Painting;🔨+Sculpting+or+Woodworking;🏠+Doing+home+reno+projects;Spending+time+with+my+💍+and+🐾🐾🐾🐾;🙌+Always+ready+to+collaborate&center=true&width=500&height=50"></a></p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
