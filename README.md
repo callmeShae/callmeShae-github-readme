@@ -19,13 +19,11 @@
 <h3 align="center"><a href="https://vtmit.vt.edu/academics/curriculum.html#graduate-certificates"> Software Development and Cybersecurity Policy </a></h3>
 
 <h4 align="center"> Spring 2023: </h4>
-<h4 align="center"> 👨‍💻 Software Engineering </h4>
 <h4 align="center"> 📱 Mobile App Development</h4>
 <h4 align="center"> Summer 2023: </h4>
 <h4 align="center"> 💻 Web App Development </h4>
 <h4 align="center"> 🛡️ Cybersecurity and the Internet of Things </h4>
 
-<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=+AND+THEN+.........;🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓🎓;&center=true&width=500&height=50"></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
 
@@ -112,7 +110,6 @@
   <img src="https://streak-stats.demolab.com?user=thereisnoShannon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4"  />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&theme=radical&hide_border=true&langs_count=10)](https://github.com/thereisnoShannon/github-readme-stats)
 
 <a href="https://github.com/thereisnoShannon/github-readme-stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereisnoShannon&theme=radical"  />
