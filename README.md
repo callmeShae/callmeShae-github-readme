@@ -18,8 +18,6 @@
 <h4 align="center"> Specializing in </h4>
 <h3 align="center"><a href="https://vtmit.vt.edu/academics/curriculum.html#graduate-certificates"> Software Development and Cybersecurity Policy </a></h3>
 
-<h4 align="center"> Spring 2023: </h4>
-<h4 align="center"> 📱 Mobile App Development</h4>
 <h4 align="center"> Summer 2023: </h4>
 <h4 align="center"> 💻 Web App Development </h4>
 <h4 align="center"> 🛡️ Cybersecurity and the Internet of Things </h4>
@@ -42,17 +40,12 @@
     <a title="Linkedin" href="https://www.linkedin.com/in/call-me-shae/">
     <img src="https://img.icons8.com/nolan/48/linkedin.png"/>
     </a>
-    <a title="Portfolio" href="https://thereisnoShannon.github.io/Shae%20Smith/index.html">
-    <img src="https://img.icons8.com/nolan/48/github.png"/>
-    </a>
     <a title="Art Site" href="https://shae1223.wixsite.com/shae-smith-artist">
     <img src="https://user-images.githubusercontent.com/75339573/189492299-8fe30fb6-b0ff-4406-bbf2-fa7f8f41645d.png"/>
     </a>
-    <a title="Facebook" href="https://www.facebook.com/shaesmith1223">
-    <img src="https://img.icons8.com/nolan/48/facebook.png"/>
-    </a>
-    <a title="Instagram" href="https://www.instagram.com/shaeasis/">
-    <img src="https://img.icons8.com/nolan/48/instagram-new.png"/>
+    <a title="Portfolio" href="https://thereisnoShannon.github.io/Shae%20Smith/index.html">
+    <img src="https://img.icons8.com/nolan/48/github.png"/>
+
 </p>	
 
 
@@ -80,6 +73,9 @@
     <a title="Kotlin" href="https://kotlinlang.org/">
     <img src="https://img.icons8.com/color/48/null/kotlin.png"/>
     </a>
+    <a title="Rest" href="https://en.wikipedia.org/wiki/Representational_state_transfer">
+    <img width="48" height="48" src="https://img.icons8.com/parakeet/48/api-settings.png" alt="api-settings"/>
+    </a>	
     <a title="Eclipse" href="https://www.eclipse.org/ide/">
     <img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" width="48px" height="48px"/>
     </a>
