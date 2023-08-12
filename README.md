@@ -18,9 +18,8 @@
 <h4 align="center"> Specializing in </h4>
 <h3 align="center"><a href="https://vtmit.vt.edu/academics/curriculum.html#graduate-certificates"> Software Development and Cybersecurity Policy </a></h3>
 
-<h4 align="center"> Summer 2023: </h4>
-<h4 align="center"> 💻 Web App Development </h4>
-<h4 align="center"> 🛡️ Cybersecurity and the Internet of Things </h4>
+<h4 align="center"> ONE CLASS TO GO: </h4>
+<h4 align="center"> 💻 Software Engineering Fall 2023 </h4>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
