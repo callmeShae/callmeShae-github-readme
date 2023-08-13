@@ -143,16 +143,19 @@
 <br>
 
 <a href="https://streak-stats.demolab.com/thereisnoShannon/">
-  <img src="https://streak-stats.demolab.com?user=thereisnoShannon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4"  />
+  <img src="https://streak-stats.demolab.com?user=thereisnoShannon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4&show_icons=true" media="(prefers-color-scheme: dark)" />
 </a>
 
 
 <a href="https://github.com/thereisnoShannon/github-readme-stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereisnoShannon&theme=radical"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereisnoShannon&theme=radical" media="(prefers-color-scheme: dark)" />
 </a>	
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut)
+
+<p align="center">**** Thanks to <a href="https://github.com/anuraghazra">Anurag Hazra</a> for the awesome <a href="https://github.com/anuraghazra/github-readme-stats"> GitHub Stats</a>! ****</a>
+    
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
 
