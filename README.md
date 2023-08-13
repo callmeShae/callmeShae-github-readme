@@ -84,9 +84,6 @@
     <a title="jQuery" href="https://jquery.com/">
     <img width="48" height="48" src="https://img.icons8.com/ios-filled/48/72D2FA/jquery.png" alt="jquery"/>
     </a>
-    <a title="NPM" href="https://www.npmjs.com/">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
-    </a>
     <a title="Sass" href="https://sass-lang.com/">
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
     </a> 
@@ -104,6 +101,9 @@
     </a>
     <a title="IntelliJ" href="https://www.jetbrains.com/idea/">
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+    </a>
+    <a title="NPM" href="https://www.npmjs.com/">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
     </a>
     <a title="Android Studio" href="https://developer.android.com/studio">    
     <img src="https://img.icons8.com/color/48/null/android-studio--v2.png"/>
