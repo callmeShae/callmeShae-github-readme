@@ -108,13 +108,15 @@
     <a title="Android Studio" href="https://developer.android.com/studio">    
     <img src="https://img.icons8.com/color/48/null/android-studio--v2.png"/>
     </a>
+    <a title="VS Code" href="https://code.visualstudio.com/">    
+    <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+    </a>
     <a title="GitLab" href="https://about.gitlab.com/">  
     <img src="https://img.icons8.com/color/48/null/gitlab.png"/>
     </a>
     <a title="Git" href="https://git-scm.com/">     
     <img src="https://img.icons8.com/color/48/null/git.png"/>
     </a>
-
 </p>
 
 
