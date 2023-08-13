@@ -152,6 +152,8 @@
 </a>	
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
 
 <h3 align="center"> 🍀 Support Me on my Journey! 🍀 </h3>
