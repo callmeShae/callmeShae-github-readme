@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img align="center" src="https://github.com/thereisnoShannon/photos/blob/main/purple.jpg" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/thereisnoShannon/photos/blob/main/Untitled.jpg" style = "width: -webkit-fill-available;"/>
 </p>
 
 
@@ -87,8 +87,8 @@
     <a title="Sass" href="https://sass-lang.com/">
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
     </a> 
-    <a title="Tomcat" href="https://tomcat.apache.org/">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/tomcat.png" alt="tomcat"/>
+    <a title="Figma" href="https://www.figma.com/">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>
     </a>
     <a title="Kotlin" href="https://kotlinlang.org/">
     <img src="https://img.icons8.com/color/48/null/kotlin.png"/>
@@ -105,6 +105,9 @@
     <a title="NPM" href="https://www.npmjs.com/">
     <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
     </a>
+    <a title="Tomcat" href="https://tomcat.apache.org/">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/tomcat.png" alt="tomcat"/>
+    </a>
     <a title="Android Studio" href="https://developer.android.com/studio">    
     <img src="https://img.icons8.com/color/48/null/android-studio--v2.png"/>
     </a>
@@ -117,7 +120,7 @@
     <a title="Git" href="https://git-scm.com/">     
     <img src="https://img.icons8.com/color/48/null/git.png"/>
     </a>
-        <a title="Python" href="https://www.python.org/">
+    <a title="Python" href="https://www.python.org/">
     <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
     </a>
     <a title="Anaconda" href="https://www.anaconda.com/">
@@ -150,11 +153,6 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
-
-![snake gif](https://github.com/BrunoGonSouza/BrunoGonSouza/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <h3 align="center"> 🍀 Support Me on my Journey! 🍀 </h3>
 
