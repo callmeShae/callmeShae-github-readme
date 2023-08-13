@@ -89,7 +89,7 @@
     </a>
     <a title="Sass" href="https://sass-lang.com/">
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-    </a>
+    </a> 
     <a title="Tomcat" href="https://tomcat.apache.org/">
     <img width="48" height="48" src="https://img.icons8.com/color/48/tomcat.png" alt="tomcat"/>
     </a>
@@ -116,6 +116,18 @@
     </a>
     <a title="Git" href="https://git-scm.com/">     
     <img src="https://img.icons8.com/color/48/null/git.png"/>
+    </a>
+        <a title="Python" href="https://www.python.org/">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+    </a>
+    <a title="Anaconda" href="https://www.anaconda.com/">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
+    </a>
+    <a title="Ubuntu" href="https://ubuntu.com/">     
+    <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
+    </a>
+    <a title="VirtualBox" href="https://www.virtualbox.org/">     
+    <img width="48" height="48" src="https://img.icons8.com/color/48/virtualbox.png" alt="virtualbox"/>
     </a>
 </p>
 
