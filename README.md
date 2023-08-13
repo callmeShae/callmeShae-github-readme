@@ -66,8 +66,32 @@
     <a title="CSS3" href="https://www.w3.org/TR/CSS/#css">
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     </a>
+    <a title="Vue" href="https://vuejs.org/">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>	
+    </a>
+    <a title="React" href="https://react.dev/">
+    <img width="48" height="48" src="https://img.icons8.com/officel/48/react.png" alt="react"/>	
+    </a>
+    <a title="NodeJS" href="https://nodejs.org/en">
+    <img width="48" height="48" src="https://img.icons8.com/windows/48/07AD28/nodejs.png" alt="nodejs"/>
+    </a>
+    <a title="Rest API" href="https://restfulapi.net/">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/api-settings.png" alt="api-settings"/>
+    </a>
+    <a title="AngularJS" href="https://restfulapi.net/">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
+    </a>
+    <a title="jQuery" href="https://jquery.com/">
+    <img width="48" height="48" src="https://img.icons8.com/ios-filled/48/72D2FA/jquery.png" alt="jquery"/>
+    </a>
+    <a title="NPM" href="https://www.npmjs.com/">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
+    </a>
     <a title="Sass" href="https://sass-lang.com/">
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+    </a>
+    <a title="Tomcat" href="https://tomcat.apache.org/">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/tomcat.png" alt="tomcat"/>
     </a>
     <a title="Kotlin" href="https://kotlinlang.org/">
     <img src="https://img.icons8.com/color/48/null/kotlin.png"/>
