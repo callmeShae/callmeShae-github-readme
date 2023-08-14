@@ -142,8 +142,12 @@
 	
 <br>
 
+
+<a href="https://github.com/thereisnoShannon/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thereisnoShannon&layout=compact&hide_border=true&langs_count=20&card_width=320&theme=radical" media="(prefers-color-scheme: dark)" />
+</a>
 <a href="https://streak-stats.demolab.com/thereisnoShannon/">
-  <img src="https://streak-stats.demolab.com?user=thereisnoShannon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4&show_icons=true$include_all_commits=true" media="(prefers-color-scheme: dark)" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=thereisnoShannon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4&show_icons=true$include_all_commits=true" media="(prefers-color-scheme: dark)" />
 </a>
 
 
@@ -152,7 +156,6 @@
 </a>	
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&theme=radical&layout=donut-vertical&langs_count=20&hide_border=true&size_weight=0.5&count_weight=0.5)
 
 
 
