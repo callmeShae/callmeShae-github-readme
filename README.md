@@ -155,7 +155,9 @@
   <img height=180 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereisnoShannon&theme=radical" media="(prefers-color-scheme: dark)" />
 </a>	
 
-
+<a href="https://github.com/thereisnoShannon/wakatime-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thereisnoShannon&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
+</a>
 
 
 
