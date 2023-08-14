@@ -152,7 +152,10 @@
 </a>	
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&theme=radical&layout=donut-vertical&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&theme=radical&layout=donut-vertical&langs_count=20&hide_border=true&size_weight=0.5&count_weight=0.5)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thereisnoShannon&repo=github-readme-stats&theme=radical&hide_border=true)
+
 
 <p align="center">**** Thanks to <a href="https://github.com/anuraghazra">Anurag Hazra</a> for the awesome <a href="https://github.com/anuraghazra/github-readme-stats"> GitHub Stats</a>! ****</a>
 
