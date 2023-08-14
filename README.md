@@ -154,7 +154,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereisnoShannon&theme=radical&layout=donut-vertical&langs_count=20&hide_border=true&size_weight=0.5&count_weight=0.5)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?thereisnoShannon=ffflabs)](https://github.com/thereisnoShannon/github-readme-stats)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
