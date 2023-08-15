@@ -139,13 +139,7 @@
   
 	
 <h3 align="center"> 📊 Github Stats </h3>
-	
-<br>
 
-
-<a href="https://github.com/thereisnoShannon/top-langs">
-  <img height=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thereisnoShannon&layout=pie&hide_border=true&include_all_commits=true&langs_count=20&card_width=320&theme=radical" media="(prefers-color-scheme: dark)" />
-</a>
 <br>
 <br>
 <a href="https://streak-stats.demolab.com/thereisnoShannon/">
