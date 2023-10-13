@@ -37,13 +37,19 @@
 								      
 <p align="center">
     <a title="Linkedin" href="https://www.linkedin.com/in/call-me-shae/">
-    <img src="https://img.icons8.com/nolan/48/linkedin.png"/>
-    </a>
-    <a title="Art Site" href="https://shae1223.wixsite.com/shae-smith-artist">
-    <img src="https://user-images.githubusercontent.com/75339573/189492299-8fe30fb6-b0ff-4406-bbf2-fa7f8f41645d.png"/>
-    </a>
+    <img width="48" height="48" src="https://img.icons8.com/nolan/48/linkedin-circled.png" alt="linkedin-circled"/>
+    </a>	
+    <p align="center">
+    <a title="Facebook" href="https://www.facebook.com/thereisnoShannon/">
+    <img width="48" height="48" src="https://img.icons8.com/nolan/64/facebook-new.png" alt="facebook-new"/>
+    </a>   
+    <p align="center">
     <a title="Portfolio" href="https://thereisnoshannon.github.io/callmeshae/index.html">
     <img src="https://img.icons8.com/nolan/48/github.png"/>
+    </a>	
+    <p align="center">
+    <a title="Art Site" href="https://shae1223.wixsite.com/shae-smith-artist">
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/ffffff/external-wixcom-ltd-is-an-israeli-cloud-based-web-development-logo-bold-tal-revivo.png"/>
 
 </p>	
 
