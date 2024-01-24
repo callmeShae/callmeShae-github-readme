@@ -13,13 +13,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
 
 
-<h3 align="center"> I'm currently working toward a Master's degree at </h3>
+<h3 align="center"> I am now a Master of Information Technology as of December 2023! </h3>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg" height="48" width="96"/></p>
 <h4 align="center"> Specializing in </h4>
 <h3 align="center"><a href="https://vtmit.vt.edu/academics/curriculum.html#graduate-certificates"> Software Development and Cybersecurity Policy </a></h3>
-
-<h4 align="center"> ONE CLASS TO GO: </h4>
-<h4 align="center"> 💻 Software Engineering Fall 2023 </h4>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">	
