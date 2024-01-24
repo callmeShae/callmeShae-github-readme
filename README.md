@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img align="center" src="https://github.com/callmeShae/photos/blob/main/Untitled.jpg" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/callmeShae/Personal_Files/blob/main/~me/Untitled.jpg" style = "width: -webkit-fill-available;"/>
 </p>
 
 
