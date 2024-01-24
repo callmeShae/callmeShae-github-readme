@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img align="center" src="https://github.com/thereisnoShannon/photos/blob/main/Untitled.jpg" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/callmeShae/photos/blob/main/Untitled.jpg" style = "width: -webkit-fill-available;"/>
 </p>
 
 
@@ -40,11 +40,11 @@
     <img width="48" height="48" src="https://img.icons8.com/nolan/48/linkedin-circled.png" alt="linkedin-circled"/>
     </a>	
     <p align="center">
-    <a title="Facebook" href="https://www.facebook.com/thereisnoShannon/">
+    <a title="Facebook" href="https://www.facebook.com/callmeShae/">
     <img width="48" height="48" src="https://img.icons8.com/nolan/64/facebook-new.png" alt="facebook-new"/>
     </a>   
     <p align="center">
-    <a title="Portfolio" href="https://thereisnoshannon.github.io/callmeshae/index.html">
+    <a title="Portfolio" href="https://callmeShae.github.io/callmeshae/index.html">
     <img src="https://img.icons8.com/nolan/48/github.png"/>
     </a>	
     <p align="center">
@@ -148,13 +148,13 @@
 
 <br>
 <br>
-<a href="https://streak-stats.demolab.com/thereisnoShannon/">
-  <img height=250 align="center" src="https://streak-stats.demolab.com?user=thereisnoShannon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4&show_icons=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+<a href="https://streak-stats.demolab.com/callmeShae/">
+  <img height=250 align="center" src="https://streak-stats.demolab.com?user=callmeShae&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8508B4&fire=FF8622&sideNums=8508B4&show_icons=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
 </a>
 <br>
 <br>
-<a href="https://github.com/thereisnoShannon/github-readme-stats">
-  <img height=250 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereisnoShannon&theme=radical" media="(prefers-color-scheme: dark)" />
+<a href="https://github.com/callmeShae/github-readme-stats">
+  <img height=250 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmeShae&theme=radical" media="(prefers-color-scheme: dark)" />
 </a>	
 <br>
 
@@ -169,24 +169,24 @@
 <p align="center"><a href="https://www.buymeacoffee.com/shaesmith1223"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="50" width="210"></a>
 </p>
 
-<p align="center"> Liked my GitHub❓ <a href="https://github.com/sponsors/thereisnoShannon/dashboard/profile"> Sponsor me </a> a Dollar 💵 
+<p align="center"> Liked my GitHub❓ <a href="https://github.com/sponsors/callmeShae/dashboard/profile"> Sponsor me </a> a Dollar 💵 
 </p>
 
 <p align="center">Liked my Contributions❓ Nominate Me for <a href="https://stars.github.com/nominate/"> GitHub Stars </a>⭐ 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=k-star-229&label=Profile%20views&color=0e75b6&style=plastic" alt="thereisnospoon1223" />
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/thereisnoShannon?label=Followers&style=social">    
-    <img src="https://img.shields.io/github/stars/thereisnoShannon?label=Stars" alt="Total Stars">
+<p align="center"><img src="https://komarev.com/ghpvc/?username=k-star-229&label=Profile%20views&color=0e75b6&style=plastic" alt="callmeShae" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/callmeShae?label=Followers&style=social">    
+    <img src="https://img.shields.io/github/stars/callmeShae?label=Stars" alt="Total Stars">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">			      
 
 
-<p align="center"> Credits: <a href="https://github.com/thereisnoShannon"> thereisnoShannon </a>
+<p align="center"> Credits: <a href="https://github.com/callmeShae"> callmeShae </a>
 </p>
 
 	
 <!---
-thereisnoShannon/thereisnoShannon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+callmeShae/callmeShae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
