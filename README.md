@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img align="center" src="https://github.com/callmeShae/Personal_Files/blob/main/~me/Untitled.jpg" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/callmeShae/Personal_Files/blob/main/~me/me3.jpg" style = "width: -webkit-fill-available;"/>
 </p>
 
 
@@ -95,9 +95,6 @@
     </a>
     <a title="Kotlin" href="https://kotlinlang.org/">
     <img src="https://img.icons8.com/color/48/null/kotlin.png"/>
-    </a>
-    <a title="Rest" href="https://en.wikipedia.org/wiki/Representational_state_transfer">
-    <img width="48" height="48" src="https://img.icons8.com/parakeet/48/api-settings.png" alt="api-settings"/>
     </a>	
     <a title="Eclipse" href="https://www.eclipse.org/ide/">
     <img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" width="48px" height="48px"/>
