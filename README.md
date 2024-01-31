@@ -41,7 +41,7 @@
     <img width="48" height="48" src="https://img.icons8.com/nolan/64/facebook-new.png" alt="facebook-new"/>
     </a>   
     <p align="center">
-    <a title="Portfolio" href="https://callmeShae.github.io/callmeshae/index.html">
+    <a title="Portfolio" href="https://callmeShae.github.io/">
     <img src="https://img.icons8.com/nolan/48/github.png"/>
     </a>	
     <p align="center">
@@ -57,80 +57,8 @@
 <h3 align="center"> Tech Stack </h3>
 
 <p align="center">
-    <a title="Java" href="https://www.java.com/">
-    <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
-    </a>
-    <a title="Javascript" href="https://www.javascript.com/">
-    <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
-    </a>
-    <a title="HTML5" href="https://html.spec.whatwg.org/multipage/">
-    <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
-    </a>
-    <a title="CSS3" href="https://www.w3.org/TR/CSS/#css">
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    </a>
-    <a title="Vue" href="https://vuejs.org/">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>	
-    </a>
-    <a title="React" href="https://react.dev/">
-    <img width="48" height="48" src="https://img.icons8.com/officel/48/react.png" alt="react"/>	
-    </a>
-    <a title="NodeJS" href="https://nodejs.org/en">
-    <img width="48" height="48" src="https://img.icons8.com/windows/48/07AD28/nodejs.png" alt="nodejs"/>
-    </a>
-    <a title="Rest API" href="https://restfulapi.net/">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/api-settings.png" alt="api-settings"/>
-    </a>
-    <a title="AngularJS" href="https://restfulapi.net/">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
-    </a>
-    <a title="jQuery" href="https://jquery.com/">
-    <img width="48" height="48" src="https://img.icons8.com/ios-filled/48/72D2FA/jquery.png" alt="jquery"/>
-    </a>
-    <a title="Sass" href="https://sass-lang.com/">
-    <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-    </a> 
-    <a title="Figma" href="https://www.figma.com/">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>
-    </a>
-    <a title="Kotlin" href="https://kotlinlang.org/">
-    <img src="https://img.icons8.com/color/48/null/kotlin.png"/>
-    </a>	
-    <a title="Eclipse" href="https://www.eclipse.org/ide/">
-    <img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" width="48px" height="48px"/>
-    </a>
-    <a title="IntelliJ" href="https://www.jetbrains.com/idea/">
-    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-    </a>
-    <a title="NPM" href="https://www.npmjs.com/">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
-    </a>
-    <a title="Tomcat" href="https://tomcat.apache.org/">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/tomcat.png" alt="tomcat"/>
-    </a>
-    <a title="Android Studio" href="https://developer.android.com/studio">    
-    <img src="https://img.icons8.com/color/48/null/android-studio--v2.png"/>
-    </a>
-    <a title="VS Code" href="https://code.visualstudio.com/">    
-    <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-    </a>
-    <a title="GitLab" href="https://about.gitlab.com/">  
-    <img src="https://img.icons8.com/color/48/null/gitlab.png"/>
-    </a>
-    <a title="Git" href="https://git-scm.com/">     
-    <img src="https://img.icons8.com/color/48/null/git.png"/>
-    </a>
-    <a title="Python" href="https://www.python.org/">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-    </a>
-    <a title="Anaconda" href="https://www.anaconda.com/">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
-    </a>
-    <a title="Ubuntu" href="https://ubuntu.com/">     
-    <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
-    </a>
-    <a title="VirtualBox" href="https://www.virtualbox.org/">     
-    <img width="48" height="48" src="https://img.icons8.com/color/48/virtualbox.png" alt="virtualbox"/>
+    <a title="Tech Stack" href="">
+    <img src="https://github.com/callmeShae/Personal_Files/blob/main/Icon%20gif.gif" width="100px"/>
     </a>
 </p>
 
