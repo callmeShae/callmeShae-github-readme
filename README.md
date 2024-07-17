@@ -87,7 +87,7 @@
 
 <h3 align="center"> 🏆 GitHub Trophies </h3>
 <div align="center" dir="auto">
- 	<img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=callmeShae&theme=radical&no-frame=true&margin-w=8&margin-h=8" />
+ 	<img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=callmeShae&theme=radical&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
