@@ -106,9 +106,9 @@
 <p align="center">Liked my Contributions❓ Nominate Me for <a href="https://stars.github.com/nominate/"> GitHub Stars </a>⭐
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=callmeshae&label=Profile%20views&color=0e75b6&style=flat" alt="callmeshae" /> 
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/callmeShae?label=Followers&style=social" alt="callmeShae's Followers"/>
-	<img alt="GitHub stars" src="https://img.shields.io/github/stars/callmeShae?label=Stars" alt="callmeShae's Stars"/>
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/callmeShae?label=Followers&style=flat&color=red" alt="callmeShae's Followers"/>
+	<img alt="GitHub stars" src="https://img.shields.io/github/stars/callmeShae?label=Stars&style=flat&color=white" alt="callmeShae's Stars"/>
+ 	<img src="https://komarev.com/ghpvc/?username=callmeshae&label=Profile%20views&color=0e75b6&style=flat" alt="callmeshae" /> 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
