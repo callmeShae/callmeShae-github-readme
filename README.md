@@ -45,8 +45,6 @@
 
 <p align="center"><a title="Linkedin" href="https://www.linkedin.com/in/call-me-shae/">
         <img width="48" height="48" src="https://img.icons8.com/nolan/48/linkedin-circled.png" alt="linkedin-circled"/></a>
-    <a title="Facebook" href="https://www.facebook.com/callmeShae/">
-        <img width="48" height="48" src="https://img.icons8.com/nolan/64/facebook-new.png" alt="facebook-new"/></a>
     <a title="Portfolio" href="https://callmeShae.github.io/">
         <img src="https://img.icons8.com/nolan/48/github.png"/></a>
     <a title="Art Site" href="https://shae1223.wixsite.com/shae-smith-artist">
