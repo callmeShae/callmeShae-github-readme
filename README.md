@@ -1,15 +1,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img
-        src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Shannon+Smith;but+almost+everyone+calls+me&center=true&width=500&height=50"></a>
-</p>
-
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&center=true&size=22&pause=1000&color=6D0DD4&width=435&lines=Hi+I'm+Shannon%2C+but+(almost)+everyone+calls+me..." alt="Typing SVG" /></a>
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
-                        width="25" height="25"> SHAE <img
-        src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25"
+                        width="25" height="25">  SHAE  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25"
         height="25"></a>
-</h3>
+</h2>
 
 <p align="center">
    	<img align="center" src="https://github.com/callmeShae/Personal_Files/blob/main/~me/me3.jpg" style="width: -webkit-fill-available;"/>
@@ -30,11 +26,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="center"> When I'm NOT doing that, I'm... </h3>
+<h3 align="center"> When I'm NOT doing that, I'm ... </h3>
 
-<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img
-        src="https://readme-typing-svg.herokuapp.com?lines=💻+Improving+my+Programming+skills;🎨+Drawing+and+Painting;🔨+Sculpting+or+Woodworking;🏠+Doing+home+reno+projects;Spending+time+with+my+💍+and+🐾🐾🐾🐾;🙌+Always+ready+to+collaborate&center=true&width=500&height=50"></a>
-</p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&center=true&size=22&pause=1000&color=6D0DD4&width=435&lines=%F0%9F%92%BB+Improving+my+dev+skills;%F0%9F%8E%A8+Creating+art%2C+sculpting+or+woodworking+%F0%9F%94%A8;%F0%9F%8F%A0+Attempting+home+renovation+projects;Maybe+%F0%9F%A5%8Aboxing+or+doing+%F0%9F%8E%AF+archery;Spending+time+with+my+%F0%9F%92%8D+and+%F0%9F%90%BE%F0%9F%90%BE%F0%9F%90%BE%F0%9F%90%BE;%F0%9F%99%8C+Always+ready+to+connect+and+collaborate!" alt="Typing SVG" /></a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
