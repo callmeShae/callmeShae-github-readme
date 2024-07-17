@@ -45,11 +45,11 @@
 
 <p align="center"><a title="Linkedin" href="https://www.linkedin.com/in/call-me-shae/">
         <img width="48" height="48" src="https://img.icons8.com/nolan/48/linkedin-circled.png" alt="linkedin-circled"/></a>
+    <a title="Art Site" href="https://shae1223.wixsite.com/shae-smith-artist">
+        <img width="48" height="48" 
+		src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/ffffff/external-wixcom-ltd-is-an-israeli-cloud-based-web-development-logo-bold-tal-revivo.png"/></a>
     <a title="Portfolio" href="https://callmeShae.github.io/">
         <img src="https://img.icons8.com/nolan/48/github.png"/></a>
-    <a title="Art Site" href="https://shae1223.wixsite.com/shae-smith-artist">
-        <img width="48" height="48"
-             src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/ffffff/external-wixcom-ltd-is-an-israeli-cloud-based-web-development-logo-bold-tal-revivo.png"/></a>
 </p>
 
 
@@ -84,6 +84,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+<div align="center" dir="auto">
+ 	<img style="max-width: 100%;" src="https://raw.githubusercontent.com/callmeShae/callmeShae/output/github-contribution-grid-snake-dark.svg&no-frame=false" />
 
 <h3 align="center"> 🏆 GitHub Trophies </h3>
 <div align="center" dir="auto">
