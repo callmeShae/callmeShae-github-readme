@@ -12,8 +12,7 @@
 </h3>
 
 <p align="center">
-    <img align="center" src="https://github.com/callmeShae/Personal_Files/blob/main/~me/me3.jpg"
-         style="width: -webkit-fill-available;"/>
+   	<img align="center" src="https://github.com/callmeShae/Personal_Files/blob/main/~me/me3.jpg" style="width: -webkit-fill-available;"/>
 </p>
 
 
@@ -87,6 +86,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+<h3 align="center"> 🏆 GitHub Trophies </h3>
+<div align="center" dir="auto">
+ 	<img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=callmeShae&theme=radical&no-frame=true&margin-w=8&margin-h=8" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <h3 align="center">
     🍀 Support Me on my Journey! 🍀
 </h3>
@@ -95,18 +103,14 @@
         src="https://github.com/callmeShae/Personal_Files/blob/main/Buy%20me%20a%20coffee.png" height="50" width="210"></a>
 </p>
 
-<p align="center"> Liked my GitHub❓ <a href="https://github.com/sponsors/callmeShae/dashboard/profile"> Sponsor me </a>
-    a Dollar 💵
-</p>
+<p align="center"> Liked my GitHub❓ <a href="https://github.com/sponsors/callmeShae/dashboard/profile"> Sponsor me </a> a Dollar 💵 </p>
 
-<p align="center">Liked my Contributions❓ Nominate Me for <a href="https://stars.github.com/nominate/"> GitHub
-    Stars </a>⭐
+<p align="center">Liked my Contributions❓ Nominate Me for <a href="https://stars.github.com/nominate/"> GitHub Stars </a>⭐
 
-<p align="center"><img
-        src="https://komarev.com/ghpvc/?username=k-star-229&label=Profile%20views&color=0e75b6&style=plastic"
-        alt="callmeShae"/>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/callmeShae?label=Followers&style=social">
-    <img src="https://img.shields.io/github/stars/callmeShae?label=Stars" alt="Total Stars">
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=callmeshae&label=Profile%20views&color=0e75b6&style=flat" alt="callmeshae" /> 
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/callmeShae?label=Followers&style=social" alt="callmeShae's Followers"/>
+	<img alt="GitHub stars" src="https://img.shields.io/github/stars/callmeShae?label=Stars" alt="callmeShae's Stars"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
