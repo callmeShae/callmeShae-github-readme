@@ -64,17 +64,19 @@ Security investigations, labs, and technical writeups.<br>
 
 ## 🏅 Certifications
 
-- GIAC **GFACT** – Foundational Cybersecurity Technologies  
-- Certified Ethical Hacker (**CEH**)  
+- GIAC **GSEC** – GIAC Security Essentials  
+- GIAC **GFACT** – GIAC Foundational Cybersecurity Technologies  
+- Certified Ethical Hacker (**CEH**)
+- Splunk **Core Certified Power User (CCPU)**
+- UiPath **Certified Professional Automation Developer Associate (ADAv1)**
 - CompTIA **Security+**  
 - CompTIA **Linux+**  
-- Splunk **Core Certified Power User (CCPU)**  
+- CompTIA **A+**  
 
 ---
 
 ## 📚 WiCyS/SANS Training Track (In Progress)
 
-- SEC401 – Security Essentials (**GSEC**)  
 - SEC504 – Hacker Tools, Techniques & Incident Handling (**GCIH**)
 
 ---
