@@ -2,13 +2,11 @@
 
 # 👋 Shannon Smith
 
-**Security Operations | Detection Engineering | Threat Investigation | U.S. Navy Veteran**
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&height=45&size=22&pause=1000&lines=Alert+%E2%86%92+Detection+%E2%86%92+Investigation+%E2%86%92+Decision;MITRE+ATT%26CK+Mapping+%E2%80%A2+Correlation+%E2%80%A2+Enrichment;Building+SOC-Style+Security+Systems" />
 </p>
 
-My work focuses on building **SOC-style security systems** that simulate how analysts triage, investigate, and respond to threats — combining **offensive understanding with defensive detection and structured investigation workflows**.
+I'm building **hands-on, SOC-style security projects** that mirror how analysts triage, investigate, and respond to threats — combining **offensive fundamentals with defensive detection** to practice both sides of an investigation as I grow into security operations.
 
 </div>
 
@@ -21,7 +19,7 @@ My work focuses on building **SOC-style security systems** that simulate how ana
 </div>
 
 <p align="center">
-Security investigations, labs, and technical writeups.<br>
+Security investigations, labs, and technical writeups, <br> plus the creative work that hones my problem-solving.<br>
 👉 https://shannonasmith.github.io/
 </p>
 
@@ -51,17 +49,6 @@ Security investigations, labs, and technical writeups.<br>
 
 ---
 
-## 🧪 Applied Cybersecurity Work
-
-- SOC-style alert analysis and triage pipelines  
-- MITRE ATT&CK mapping and detection workflows  
-- investigation and enrichment pipelines  
-- CTF-based offensive and defensive analysis  
-- enterprise-style cybersecurity home lab design  
-- network traffic analysis and log-based detection  
-
----
-
 ## 🏅 Certifications
 
 - GIAC **GSEC** – GIAC Security Essentials  
@@ -73,11 +60,8 @@ Security investigations, labs, and technical writeups.<br>
 - CompTIA **Linux+**  
 - CompTIA **A+**  
 
----
-
-## 📚 WiCyS/SANS Training Track (In Progress)
-
-- SEC504 – Hacker Tools, Techniques & Incident Handling (**GCIH**)
+**In Progress:**
+- SANS SEC504 – Hacker Tools, Techniques & Incident Handling (**GCIH**), via the WiCyS/SANS Training Track
 
 ---
 
@@ -87,15 +71,6 @@ Security investigations, labs, and technical writeups.<br>
 Graduate Certificates: Software Development and Cybersecurity Policy  
 
 - **Bachelor of Science in Technical Management** — DeVry University (2017)
-
----
-
-## 💼 Experience Highlights
-
-- U.S. Navy Veteran — leadership & operational discipline  
-- Active Capture-the-Flag (CTF) competitor  
-- Cybersecurity home lab design & attack simulation  
-- Network traffic analysis and structured investigation workflows  
 
 ---
 
@@ -128,6 +103,6 @@ Outside of security, I enjoy cycling and creative disciplines like woodworking a
 
 <div align="center">
 
-🛡 **Security is not a checklist — it’s a system.**
+🛡 **Security is not a checklist — it's a system.**
 
 </div>
