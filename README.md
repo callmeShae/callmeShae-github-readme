@@ -2,6 +2,8 @@
 
 # 👋 Shannon Smith
 
+**Cybersecurity | SOC Operations • Detection Engineering • Incident Response**
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&height=45&size=22&pause=1000&lines=Alert+%E2%86%92+Detection+%E2%86%92+Investigation+%E2%86%92+Decision;MITRE+ATT%26CK+Mapping+%E2%80%A2+Correlation+%E2%80%A2+Enrichment;Building+SOC-Style+Security+Systems" />
 </p>
@@ -74,7 +76,7 @@ Graduate Certificates: Software Development and Cybersecurity Policy
 
 ---
 
-## U.S. Navy Service
+## 🇺🇸 U.S. Navy Service
 
 <div align="center">
   <img src="images/navy-plaque.png" width="600">
@@ -93,7 +95,7 @@ Outside of security, I enjoy cycling and creative disciplines like woodworking a
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 **Portfolio**: https://shannonasmith.github.io/  
 **LinkedIn**: https://www.linkedin.com/in/shannonasmith  
