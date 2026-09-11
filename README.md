@@ -76,7 +76,7 @@ Graduate Certificates: Software Development and Cybersecurity Policy
 
 ---
 
-## 🇺🇸 U.S. Navy Service
+## ⚓ U.S. Navy Service
 
 <div align="center">
   <img src="images/navy-plaque.png" width="600">
